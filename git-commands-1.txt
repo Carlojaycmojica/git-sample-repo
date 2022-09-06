@@ -1,5 +1,5 @@
 git status -> prints the status of the Git Repository
-git init
+git init -> initialize git repository
 git config --global user.name "Test"
 git config --global user.email carlojaymojica@gmial.com
 git config user.name "Let's Kode It"
