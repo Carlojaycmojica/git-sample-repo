@@ -1,3 +1,14 @@
+
+git status -> prints the status of the Git Repository!
+git init -> initialize git repository
+git config --global user.name "Test"
+git config --global user.email carlojaymojica@gmial.com
+git config user.name "Let's Kode It"
+git config user.email letskodeit@gmail.com
+git add
+git commit -m ""
+git log
+Git diff <filename>
 --------------------------------------------------Git Commands------------------------------------------------------------
 git status 							-> Prints the status of the Git Repository!
 git init 							-> Initializes Git Repository
@@ -32,3 +43,7 @@ Person B -> Pull from master to private branch, merge code to master
 Scenarion 3:
 1 person -> Two different features
 Work on different branches
+
+
+--------------Master----------------Release----------------Master---------------Release----------------Master-----------
+=======
